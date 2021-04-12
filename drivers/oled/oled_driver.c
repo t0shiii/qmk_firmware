@@ -1,4 +1,4 @@
-/*
+﻿/*
 Copyright 2019 Ryan Caltabiano <https://github.com/XScorpion2>
 
 This program is free software: you can redistribute it and/or modify
